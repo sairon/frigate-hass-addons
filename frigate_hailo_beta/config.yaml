@@ -1,5 +1,5 @@
-name: Frigate HailoRT Beta
-version: 0.15.0-h8l
+name: Frigate HailoRT Beta (HAOS 15)
+version: 5aa1f37-h8l
 breaking_versions:
   - 0.15.0-h8l
   - 0.15.0-rc2-h8l
@@ -10,7 +10,7 @@ panel_title: Frigate
 slug: frigate-hailo-beta
 description: NVR with realtime local object detection for IP cameras
 url: "https://github.com/blakeblackshear/frigate"
-image: ghcr.io/blakeblackshear/frigate
+image: ghcr.io/sairon/frigate
 startup: application
 boot: auto
 init: false
