@@ -1,5 +1,5 @@
-name: Frigate Beta
-version: 0.16.0-beta3
+name: Frigate Beta (HAOS 16)
+version: 897e8df
 breaking_versions:
   - 0.16.0-beta3
   - 0.16.0-beta2
@@ -18,8 +18,8 @@ panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-beta
 description: NVR with realtime local object detection for IP cameras
-url: "https://github.com/blakeblackshear/frigate"
-image: ghcr.io/blakeblackshear/frigate
+url: "https://github.com/sairon/frigate"
+image: ghcr.io/sairon/frigate
 startup: application
 boot: auto
 init: false
